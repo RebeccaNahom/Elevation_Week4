@@ -1,0 +1,16 @@
+{
+  "name": "selenium-infrastructures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seleniumInfra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^77.0.0",
+    "jquery": "^3.4.1",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
